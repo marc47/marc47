@@ -22,7 +22,7 @@
 #### **Datos Personales** <br>
 Nombre: Marco Estuardo Contreras Pardo<br>
 Usuario GitHub: Marc47<br>
-Rol Objetivo: Developer Full Stack < br>
+Rol Objetivo: Developer Full Stack <br>
 Ubicación: Ciudad de Guatemala, abierto a requerimiento. <br>
 Correo Profesional:  assistec.infogt@gmail.com <br>
 Portafolio Profesional: https://marc47.github.io/portafolio_personal/<br>

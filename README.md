@@ -5,10 +5,10 @@
 
 <!-- BADGES DE ESTADO / CONTACTO -->
 <p align="center">
-  <a href="https://tu-portfolio.com">
+  <a href="https://marc47.github.io/portafolio_personal/)">
     <img src="https://img.shields.io/badge/PORTAFOLIO-DISPONIBLE-00c853?style=for-the-badge&logoColor=white" alt="Portafolio" />
   </a>
-  <a href="https://github.com/tu-usuario">
+  <a href="https://github.com/Marc47">
     <img src="https://img.shields.io/badge/PROYECTOS-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=0075a2&style=for-the-badge&label=VISITAS" alt="Contador de visitas" />
@@ -19,9 +19,9 @@
 <!-- PRESENTACIÓN PRINCIPAL -->
 <div align="center">
 
-# Hola, soy [Tu Nombre]
+# [Tu Nombre]
 
-### **Full Stack Developer Junior en Formación **
+### **Full Stack Developer Junior en Formación**
 
 Desarrollo aplicaciones web, APIs REST y paneles administrativos con enfoque en orden, documentación y resolución de problemas reales.
 
@@ -61,6 +61,8 @@ Desarrollo aplicaciones web, APIs REST y paneles administrativos con enfoque en 
 
 <!-- STACK PRINCIPAL (ÍCONOS) -->
 ### Stack principal
+
+python,github,html,css,js,mysql,mongodb,java,nodejs,php,cs,dotnet,spring,express,laravel,git,docker,vscode****
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,vscode,npm" alt="Mi Stack" />

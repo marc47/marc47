@@ -19,13 +19,6 @@
 <!-- PRESENTACIÓN PRINCIPAL -->
 <div align="start">
 
-NOMBRE_COMPLETO= Marco Estuardo Contreras Pardo
-USUARIO_GITHUB= Marc47
-ROL_OBJETIVO= Developer Full Stack Junior en formación. 
-UBICACIÓN= Ciudad de Guatemala 
-CORREO_PROFESIONAL= assistec.infogt@gmail.com
-PORTAFOLIO= github.com/marc47
-FECHA_ACTUALIZACION= agosto 17 de 2026
 
 
 #### **Perfil Profesional** <br>
@@ -38,8 +31,12 @@ FECHA_ACTUALIZACION= agosto 17 de 2026
 
 ### **Full Stack Developer Junior en Formación**
 
-Desarrollo aplicaciones web, APIs REST y paneles administrativos con enfoque en orden, documentación y resolución de problemas reales.
+Capacitación constante en el ámbito del desarrollo full stack con los conocimientos de desarrollo web, con integraciones de APIs y lógica de back end como principiante.
 
+ <li><strong>Front End:</strong> HTML5, CSS3, JavaScript</li>
+ <li><strong>Metodologias Agiles:</strong>Scrum</li>
+ <li>Git y GitHub</li>
+ <li><strong>Back End:</strong> Python I</li>
 **Backend con Node.js, Express, JavaScript (ES6+), HTML5 y CSS3**
 
 </div>
@@ -52,22 +49,22 @@ Desarrollo aplicaciones web, APIs REST y paneles administrativos con enfoque en 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Desarrollo web</h4>
-      <p>Construyo interfaces claras y funcionales conectadas a APIs y servicios backend.</p>
+      <h4>Experiencia Técnica</h4>
+      <li>Conocimiento en Voice over IP (VoIP) en la industria de telecomunicaciones.</li>
+      <li>Conocimiento principiante en redes de informática.</li>
+      <li>Cableado Estructurado</li>
     </td>
     <td width="50%" valign="top">
       <h4>Proyectos y soluciones</h4>
-      <p>Transformo requerimientos en proyectos organizados, documentados y fáciles de revisar.</p>
+      <li>Empresa de soluciones técnicas de IT</li>
+      <li>Academia Técnica de Reparación y Mantenimiento de equipo</li>
+      <li>Servicios de Desarrollo Full Stack</li>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Trabajo técnico</h4>
-      <p>Uso ramas, commits descriptivos (Conventional Commits) y estructura de carpetas para trabajar de forma colaborativa.</p>
-    </td>
-    <td width="50%" valign="top">
       <h4>Aprendizaje continuo</h4>
-      <p>Fortalezco mis bases en arquitectura web, integración de APIs y rendimiento en el navegador.</p>
+      <p>El aprendizaje constante es una de mis metas diarias para fortalecer áreas como developer full stack, para brindar bases sólidas en la arquitectura y desarrollo de los requerimientos de mis empleadores.</p>
     </td>
   </tr>
 </table>
@@ -77,10 +74,10 @@ Desarrollo aplicaciones web, APIs REST y paneles administrativos con enfoque en 
 <!-- STACK PRINCIPAL (ÍCONOS) -->
 ### Stack principal
 
-python,github,html,css,js,mysql,mongodb,java,nodejs,php,cs,dotnet,spring,express,laravel,git,docker,vscode****
+
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,vscode,npm" alt="Mi Stack" />
+  ?i= html, css, js, git, github, vscode
 </p>
 
 ---

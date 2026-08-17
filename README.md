@@ -19,9 +19,16 @@
 <!-- PRESENTACIÓN PRINCIPAL -->
 <div align="start">
 
- <h1 > Marco E. Contreras Pardo </h1>
+NOMBRE_COMPLETO= Marco Estuardo Contreras Pardo
+USUARIO_GITHUB= Marc47
+ROL_OBJETIVO= Developer Full Stack Junior en formación. 
+UBICACIÓN= Ciudad de Guatemala 
+CORREO_PROFESIONAL= assistec.infogt@gmail.com
+PORTAFOLIO= github.com/marc47
+FECHA_ACTUALIZACION= agosto 17 de 2026
 
-Perfil Profesional <br>
+
+#### **Perfil Profesional** <br>
 - Técnico en el campo informático <br>
 - Bilingüe Nivel C1 <br>
 - Valores Éticos profesionales <br>

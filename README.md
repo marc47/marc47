@@ -18,8 +18,14 @@
 
 <!-- PRESENTACIÓN PRINCIPAL -->
 <div align="start">
-
-
+  
+#### **Datos Personales** <br>
+Nombre: Marco Estuardo Contreras Pardo<br>
+Usuario GitHub: Marc47<br>
+Rol Objetivo: Developer Full Stack < br>
+Ubicación: Ciudad de Guatemala, abierto a requerimiento. <br>
+Correo Profesional:  assistec.infogt@gmail.com <br>
+Portafolio Profesional: https://marc47.github.io/portafolio_personal/<br>
 
 #### **Perfil Profesional** <br>
 - Técnico en el campo informático <br>
@@ -50,15 +56,15 @@ Capacitación constante en el ámbito del desarrollo full stack con los conocimi
   <tr>
     <td width="50%" valign="top">
       <h4>Experiencia Técnica</h4>
-      <p>- Conocimiento en Voice over IP (VoIP) en la industria de telecomunicaciones.</p>
-      <p>- Conocimiento principiante en redes de informática.</p>
-      <p>= Cableado Estructurado</p>
+      - Conocimiento en Voice over IP (VoIP) en la industria de telecomunicaciones.<br>
+      - Conocimiento básico de configuración de redes de informática. <br>
+      - Cableado Estructurado <br>
     </td>
     <td width="50%" valign="top">
       <h4>Proyectos y soluciones</h4>
-      <p>- Empresa de soluciones técnicas de IT</p>
-      <p>- Academia Técnica de Reparación y Mantenimiento de equipo</p>
-      <p>- Servicios de Desarrollo Full Stack</p>
+      - Empresa de soluciones técnicas de IT<br>
+      - Academia Técnica de Reparación y Mantenimiento de equipo<br>
+      - Servicios de Desarrollo Full Stack<br>
     </td>
   </tr>
   <tr>
@@ -85,34 +91,26 @@ Capacitación constante en el ámbito del desarrollo full stack con los conocimi
   <tr>
     <td width="33%" valign="top">
       <h4>Fake Store Web App</h4>
-      <p>E-commerce interactivo con filtro por categorías, carrito de compras y persistencia en <code>localStorage</code>.</p>
+      <p>E-commerce interactivo con filtro por categorías, carrito de compras y persistencia de datos en local storage. <code>localStorage</code>.</p>
       <p><b>Stack:</b> JavaScript, HTML5, CSS3</p>
 
-      [Ver proyecto](https://github.com/tu-usuario/proyecto1)
+      [Ver proyecto](https://github.com/marc47/fakeStore)
     </td>
     <td width="33%" valign="top">
       <h4>Star Wars Explorer</h4>
       <p>Aplicación de exploración de datos de la API SWAPI con buscadores y filtros integrados.</p>
       <p><b>Stack:</b> JS Async/Await, Web APIs</p>
 
-      [Ver proyecto](https://github.com/tu-usuario/proyecto2)
+      [Ver proyecto](https://github.com/marc47/starWars)
     </td>
     <td width="33%" valign="top">
-      <h4>Gestor de Eventos</h4>
-      <p>Dashboard interactivo y responsive para administración y control de eventos.</p>
+      <h4>Portafolio Profesional</h4>
+      <p>Website que incluye landing page con opciones de historial profesional, contacto y proyectos, con opción a descarga de currículum en español e inglés, ruta de contacto directa a WhatsApp y demás temas de contacto. </p>
       <p><b>Stack:</b> Vanilla JS, Flexbox/Grid</p>
 
-      [Ver proyecto](https://github.com/tu-usuario/proyecto3)
+      [Ver proyecto](https://github.com/marc47/portafolio_personal)
     </td>
   </tr>
 </table>
 
----
 
-<!-- ACTIVIDAD EN GITHUB -->
-### Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true" alt="Racha de GitHub" height="150" />
-</p>

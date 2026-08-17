@@ -17,17 +17,17 @@
 <br />
 
 <!-- PRESENTACIÓN PRINCIPAL -->
-<div align="center">
+<div align="start">
 
-# [Marco E. Contreras Pardo]
+ <h1 > Marco E. Contreras Pardo </h1>
 
-##[- Perfil Profesional] <br>
-###- Técnico en el campo informático <br>
-###- Bilingüe Nivel C1 <br>
-###- Valores Éticos profesionales <br>
-###- Preferencia por trabajo en equipo <br>
-###- Abierto al aprendizaje constante <br>
-###- Enfocado en plasmar ideas educativas <br>
+Perfil Profesional <br>
+- Técnico en el campo informático <br>
+- Bilingüe Nivel C1 <br>
+- Valores Éticos profesionales <br>
+- Preferencia por trabajo en equipo <br>
+- Abierto al aprendizaje constante <br>
+- Enfocado en plasmar ideas educativas <br>
 
 ### **Full Stack Developer Junior en Formación**
 

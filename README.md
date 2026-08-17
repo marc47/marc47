@@ -21,13 +21,13 @@
 
 # [Marco E. Contreras Pardo]
 
-##[- Perfil Profesional]
-###- Técnico en el campo Informático
-###- Bilingüe Nivel C1
-###- Valores Éticos profesionales
-###- Preferencia por trabajo en equipo
-###- Abierto al aprendizaje constante
-###- Enfocado en plasmar ideas educativas
+##[- Perfil Profesional] <br>
+###- Técnico en el campo informático <br>
+###- Bilingüe Nivel C1 <br>
+###- Valores Éticos profesionales <br>
+###- Preferencia por trabajo en equipo <br>
+###- Abierto al aprendizaje constante <br>
+###- Enfocado en plasmar ideas educativas <br>
 
 ### **Full Stack Developer Junior en Formación**
 

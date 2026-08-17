@@ -50,15 +50,15 @@ Capacitación constante en el ámbito del desarrollo full stack con los conocimi
   <tr>
     <td width="50%" valign="top">
       <h4>Experiencia Técnica</h4>
-      <li>Conocimiento en Voice over IP (VoIP) en la industria de telecomunicaciones.</li>
-      <li>Conocimiento principiante en redes de informática.</li>
-      <li>Cableado Estructurado</li>
+      <p>- Conocimiento en Voice over IP (VoIP) en la industria de telecomunicaciones.</p>
+      <p>- Conocimiento principiante en redes de informática.</p>
+      <p>= Cableado Estructurado</p>
     </td>
     <td width="50%" valign="top">
       <h4>Proyectos y soluciones</h4>
-      <li>Empresa de soluciones técnicas de IT</li>
-      <li>Academia Técnica de Reparación y Mantenimiento de equipo</li>
-      <li>Servicios de Desarrollo Full Stack</li>
+      <p>- Empresa de soluciones técnicas de IT</p>
+      <p>- Academia Técnica de Reparación y Mantenimiento de equipo</p>
+      <p>- Servicios de Desarrollo Full Stack</p>
     </td>
   </tr>
   <tr>

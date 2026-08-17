@@ -74,11 +74,7 @@ Capacitación constante en el ámbito del desarrollo full stack con los conocimi
 <!-- STACK PRINCIPAL (ÍCONOS) -->
 ### Stack principal
 
-
-
-<p align="left">
-  ?i= html, css, js, git, github, vscode
-</p>
+![Mis habilidades](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)
 
 ---
 

@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:4ca1af&height=180&section=header&text=Marco%20Contreras&fontSize=40&fontColor=ffffff&desc=GitHub%20Portfolio&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:4ca1af&height=180&section=header&text=Marco%20Contreras&<br>&fontSize=40&fontColor=ffffff&desc=GitHub%20Portfolio&descSize=18" width="100%" alt="Header Banner" />
 </p>
 
 <!-- BADGES DE ESTADO / CONTACTO -->
